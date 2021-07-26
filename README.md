@@ -1,2 +1,2 @@
-# tracecamp
-for tracecamp Fall 2021
+# html-website
+A first-time website produced for Clemson Tracecamp, 2021.
